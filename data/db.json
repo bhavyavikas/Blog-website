@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "HTML",
+      "body": "Text on HTML",
+      "author": "C",
+      "id": 3
+    },
+    {
+      "title": "Hello",
+      "body": "Adding Hello",
+      "author": "A",
+      "id": 7
+    }
+  ]
+}
