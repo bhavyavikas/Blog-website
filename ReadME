@@ -1,0 +1,3 @@
+This web application is a blogging web application where user can create a content which involves the Author name, Title of the Blog & the content of the blog.
+The users are also able to perform functions like display their blog, View blog List and Delete Blog.
+The styling of the application is developed using CSS3 and the functionalities are combined with ReactJS where JSON file is used to save the blog data and fetch data when the user clicks on the blo they want to view.
